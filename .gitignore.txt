@@ -1,0 +1,16 @@
+# Ignorer store rådatafiler
+*.json
+
+# Ignorer Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignorer midlertidige Python-filer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer ZIP og andre store arkivfiler
+*.zip
+*.tar
+*.gz
