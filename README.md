@@ -1,6 +1,6 @@
-# 📊 Yelp Restaurant Rating Prediction – Multiple Linear Regression
+# Yelp Restaurant Rating Prediction – Multiple Linear Regression
 
-## 📌 Prosjektbeskrivelse  
+##  Prosjektbeskrivelse  
 Dette prosjektet bruker ekte Yelp-data for å undersøke hvilke faktorer som påvirker en restaurants rating.  
 Målet er å trene en **multiple linear regression-modell** for å predikere en restaurants gjennomsnittlige stjernerating basert på ulike egenskaper.  
 
