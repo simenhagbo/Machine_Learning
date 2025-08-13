@@ -1,4 +1,5 @@
-# Yelp Restaurant Rating Prediction – Multiple Linear Regression
+# Codecademy
+# Yelp Restaurant Rating Prediction – Multiple Lineær Regresjon
 
 ##  Prosjektbeskrivelse  
 Dette prosjektet bruker ekte Yelp-data for å undersøke hvilke faktorer som påvirker en restaurants rating.  
